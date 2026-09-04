@@ -21,7 +21,6 @@
 > B.Tech Computer Science (Data Science) @ GITAM University — Class of 2029
 > Design Lead, GitHub Community Club (GCC)
 > Focus: quantitative finance, financial markets, data-driven analysis
-> Building: SIH 2026 — fintech track
 > Learning: SQL · Python · Tableau / Power BI
 ```
 
