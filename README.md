@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B4332,100:0D1117&height=200&section=header&text=Sai%20Ruchitha&fontSize=42&fontColor=D4AF37&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%C3%97%20Behavioral%20Finance&descAlignY=55&descSize=18&descColor=2ECC71" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B4332,100:0D1117&height=200&section=header&text=Sai%20Ruchitha&fontSize=42&fontColor=D4AF37&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%C3%97%20Quant%20Finance&descAlignY=55&descSize=18&descColor=2ECC71" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=D4AF37&center=true&vCenter=true&width=600&lines=Turning+spending+data+into+behavior+insight;Design+Lead+%40+GitHub+Community+Club;Building+for+Smart+India+Hackathon+2026" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=D4AF37&center=true&vCenter=true&width=600&lines=Turning+data+into+market+insight;Design+Lead+%40+GitHub+Community+Club;Building+for+Smart+India+Hackathon+2026" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sai-ruchitha-tammareddy" target="_blank">
+  <a href="linkedin.com/in/sai-ruchitha-tammareddy-273346384" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=D4AF37" />
   </a>
-  <a href="mailto:ruchithat25@gmail.com">
+  <a href="gmailto:ruchithat25@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2ECC71" />
   </a>
 </p>
@@ -20,22 +20,24 @@
 ```
 > B.Tech Computer Science (Data Science) @ GITAM University — Class of 2029
 > Design Lead, GitHub Community Club (GCC)
-> Focus: behavioral finance, consumer psychology, product analytics
+> Focus: quantitative finance, financial markets, data-driven analysis
 > Building: SIH 2026 — fintech track
 > Learning: SQL · Python · Tableau / Power BI
 ```
 
 ---
 
-### 💹 Featured build
+### 💹 Market pulse
 
-**Emotional Spending Analyzer**
-A product analytics case study on why people overspend — modeling emotional spending behavior at the intersection of data and behavioral finance.
+<p align="left">
+  <img width="100%" src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22line%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B14%2C%2018%2C%2016%2C%2022%2C%2020%2C%2027%2C%2025%2C%2032%2C%2029%2C%2038%5D%2C%20%22borderColor%22%3A%20%22%23D4AF37%22%2C%20%22backgroundColor%22%3A%20%22rgba%2846%2C204%2C113%2C0.18%29%22%2C%20%22fill%22%3A%20true%2C%20%22tension%22%3A%200.4%2C%20%22pointRadius%22%3A%200%2C%20%22borderWidth%22%3A%203%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%7D%2C%20%22scales%22%3A%20%7B%22x%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22y%22%3A%20%7B%22display%22%3A%20false%7D%7D%7D%7D&backgroundColor=%230D1117&width=800&height=220&devicePixelRatio=2" />
+</p>
 
-<img src="https://img.shields.io/badge/status-in%20progress-2ECC71?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/domain-fintech%20%2F%20behavioral%20finance-D4AF37?style=flat-square&labelColor=0D1117" />
+<p align="left">
+  <img width="100%" src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22bar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B6%2C%20-3%2C%208%2C%205%2C%20-2%2C%209%2C%204%2C%20-5%2C%2010%2C%203%2C%20-1%2C%207%5D%2C%20%22backgroundColor%22%3A%20%5B%22%232ECC71%22%2C%20%22%23E74C3C%22%2C%20%22%232ECC71%22%2C%20%22%232ECC71%22%2C%20%22%23E74C3C%22%2C%20%22%232ECC71%22%2C%20%22%232ECC71%22%2C%20%22%23E74C3C%22%2C%20%22%232ECC71%22%2C%20%22%232ECC71%22%2C%20%22%23E74C3C%22%2C%20%22%232ECC71%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%7D%2C%20%22scales%22%3A%20%7B%22x%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22y%22%3A%20%7B%22display%22%3A%20false%2C%20%22grid%22%3A%20%7B%22display%22%3A%20false%7D%7D%7D%7D%7D&backgroundColor=%230D1117&width=800&height=220&devicePixelRatio=2" />
+</p>
 
-*(Pin this repo once it's public — replace this section with a direct link.)*
+<sub><i>Stylized visuals, not live market data.</i></sub>
 
 ---
 
