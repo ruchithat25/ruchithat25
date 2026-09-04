@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Ruchitha</h1>
-<h3 align="center">A CS (Data Science) student from India, exploring behavioral finance & fintech</h3>
+<h3 align="center">A CS (Data Science) student , exploring finance & fintech</h3>
 
 - 🎓 B.Tech Computer Science (Data Science specialization) @ GITAM University
 - 🚀 Design Lead, GitHub Community Club (GCC) — run technical sessions and lead events
