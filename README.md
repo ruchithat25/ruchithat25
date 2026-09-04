@@ -27,19 +27,7 @@
 
 ---
 
-### 💹 Market pulse
 
-<p align="left">
-  <img width="100%" src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22line%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B14%2C%2018%2C%2016%2C%2022%2C%2020%2C%2027%2C%2025%2C%2032%2C%2029%2C%2038%5D%2C%20%22borderColor%22%3A%20%22%23D4AF37%22%2C%20%22backgroundColor%22%3A%20%22rgba%2846%2C204%2C113%2C0.18%29%22%2C%20%22fill%22%3A%20true%2C%20%22tension%22%3A%200.4%2C%20%22pointRadius%22%3A%200%2C%20%22borderWidth%22%3A%203%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%7D%2C%20%22scales%22%3A%20%7B%22x%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22y%22%3A%20%7B%22display%22%3A%20false%7D%7D%7D%7D&backgroundColor=%230D1117&width=800&height=220&devicePixelRatio=2" />
-</p>
-
-<p align="left">
-  <img width="100%" src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22bar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%2C%20%22%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B6%2C%20-3%2C%208%2C%205%2C%20-2%2C%209%2C%204%2C%20-5%2C%2010%2C%203%2C%20-1%2C%207%5D%2C%20%22backgroundColor%22%3A%20%5B%22%232ECC71%22%2C%20%22%23E74C3C%22%2C%20%22%232ECC71%22%2C%20%22%232ECC71%22%2C%20%22%23E74C3C%22%2C%20%22%232ECC71%22%2C%20%22%232ECC71%22%2C%20%22%23E74C3C%22%2C%20%22%232ECC71%22%2C%20%22%232ECC71%22%2C%20%22%23E74C3C%22%2C%20%22%232ECC71%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%7D%2C%20%22scales%22%3A%20%7B%22x%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22y%22%3A%20%7B%22display%22%3A%20false%2C%20%22grid%22%3A%20%7B%22display%22%3A%20false%7D%7D%7D%7D%7D&backgroundColor=%230D1117&width=800&height=220&devicePixelRatio=2" />
-</p>
-
-<sub><i>Stylized visuals, not live market data.</i></sub>
-
----
 
 ### 🛠️ Stack
 
