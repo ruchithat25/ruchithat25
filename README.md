@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/sai-ruchitha-tammareddy-273346384/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=D4AF37" />
   </a>
-  <a href="gmailto:ruchithat25@gmail.com">
+  <a href="mailto:ruchithat25@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2ECC71" />
   </a>
 </p>
