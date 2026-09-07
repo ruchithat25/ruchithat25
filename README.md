@@ -94,16 +94,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ruchitha25&show_icons=true&hide_border=true&bg_color=00000000&title_color=F2A7C6&icon_color=B8C0FF&text_color=7C7C7C" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchitha25&layout=compact&hide_border=true&bg_color=00000000&title_color=B8C0FF&text_color=7C7C7C" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ruchithat25&show_icons=true&hide_border=true&bg_color=00000000&title_color=F2A7C6&icon_color=B8C0FF&text_color=7C7C7C" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchithat25&layout=compact&hide_border=true&bg_color=00000000&title_color=B8C0FF&text_color=7C7C7C" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ruchitha25&theme=transparent&hide_border=true&ring=F2A7C6&fire=FFD6A5&currStreakLabel=B8C0FF&sideLabels=F2A7C6&dates=7C7C7C" width="75%" />
+  <img src="https://streak-stats.demolab.com?user=ruchithat25&theme=transparent&hide_border=true&ring=F2A7C6&fire=FFD6A5&currStreakLabel=B8C0FF&sideLabels=F2A7C6&dates=7C7C7C" width="75%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruchitha25&bg_color=00000000&color=F2A7C6&line=B8C0FF&point=FFD6A5&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruchithat25&bg_color=00000000&color=F2A7C6&line=B8C0FF&point=FFD6A5&area=true&hide_border=true" width="100%" />
 </p>
 
 ## 🤝 Let's Connect
