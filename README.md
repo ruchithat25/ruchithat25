@@ -4,7 +4,7 @@
 
 ### Data Science • AI/ML • Finance • Technology
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=900&color=F2A7C6&center=true&vCenter=true&width=700&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Growing;Data+Science+%E2%80%A2+AI%2FML+%E2%80%A2+Finance;Turning+ideas+into+impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=900&color=F2A7C6&center=true&vCenter=true&width=700&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Growing;Data[...]" />
 
 <p>
   <img src="https://img.shields.io/badge/Data%20Science-F2A7C6?style=for-the-badge&logo=python&logoColor=white" />
@@ -105,8 +105,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruchitha25&bg_color=00000000&color=F2A7C6&line=B8C0FF&point=FFD6A5&area=true&hide_border=true" width="100%" />
 </p>
-
----
 
 ## 🤝 Let's Connect
 
