@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B4332,100:0D1117&height=200&section=header&text=Sai%20Ruchitha&fontSize=42&fontColor=D4AF37&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%C3%97%20Quant%20Finance&descAlignY=55&descSize=18&descColor=2ECC71" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=D4AF37&center=true&vCenter=true&width=600&lines=Turning+data+into+market+insight;Design+Lead+%40+GitHub+Community+Club;Building+for+Smart+India+Hackathon+2026" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=D4AF37&center=true&vCenter=true&width=600&lines=Turning+data+into+market+insight;Design+Lead+%40+GitHub+Community+Club;" />
 </p>
 
 <p align="center">
