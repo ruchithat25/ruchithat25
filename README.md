@@ -32,9 +32,9 @@
 
 - 🎓 Computer Science (Data Science) student
 - 📊 Exploring data analytics, visualization, and AI/ML
-- 💰 Curious about finance, financial markets, and FinTech
+- 💰 Curious about finance, investing, financial markets, and FinTech
 - 🎨 Interested in UI/UX and digital design
-- 👩‍💻 Passionate about women in technology
+- 📈 Enjoy turning financial data into meaningful insights
 
 ---
 
@@ -43,9 +43,9 @@
 <p>
   <img src="https://img.shields.io/badge/Data%20Analytics-F2A7C6?style=flat-square&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Finance-FFD6A5?style=flat-square&logo=tradingview&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML-B8C0FF?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-FFC8DD?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Women%20in%20Tech-CDB4DB?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Investing-B8C0FF?style=flat-square&logo=barclays&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-FFC8DD?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/FinTech-CDB4DB?style=flat-square&logo=visa&logoColor=white" />
 </p>
 
 ---
@@ -69,24 +69,25 @@
 ## 💹 Finance × Data
 
 ```text
-💰 Financial Data
+💰 Market & Financial Data
       ↓
 🐍 Python + SQL
       ↓
-📊 Analysis
+📊 Analysis & Modeling
       ↓
-📈 Visualization
+📈 Visualization & Dashboards
       ↓
-💡 Insights
+💡 Investment & Business Insights
 ```
 
 ---
 
 ## ✨ What I'm Working On
 
-- Building projects that combine **data, design, and decision-making**
-- Learning more about **machine learning and financial analysis**
+- Building projects that combine **data, finance, and decision-making**
+- Learning more about **machine learning, financial analysis, and investing**
 - Improving my **problem-solving, communication, and UI/UX** skills
+- Exploring **market trends, portfolio analysis, and fintech applications**
 
 ---
 
