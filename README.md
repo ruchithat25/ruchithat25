@@ -1,50 +1,184 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B4332,100:0D1117&height=200&section=header&text=Sai%20Ruchitha&fontSize=42&fontColor=D4AF37&animation=fadeIn" />
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=D4AF37&center=true&vCenter=true&width=600&lines=Turning+data+into+market+insight;Design+Lead+%40+GitHub+Community+Club;Passionate+about+Finance+%26+Data" />
+# 👋 Hi, I'm Ruchitha
+
+### 💻 Computer Science (Data Science) Student | 📊 Data Enthusiast | 🤖 AI/ML Explorer
+
+<img src="https://komarev.com/ghpvc/?username=ruchitha25&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<br><br>
+
+<a href="https://github.com/ruchitha25">
+  <img src="https://img.shields.io/github/followers/ruchitha25?label=Followers&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/ruchitha25?tab=repositories">
+  <img src="https://img.shields.io/github/stars/ruchitha25?label=Stars&style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech Computer Science (Data Science) student
+- 🏫 GITAM University — Class of 2029
+- 📊 Interested in **Data Science, Data Analytics & AI**
+- 💰 Passionate about **Finance, Financial Markets & Data-driven Analysis**
+- 🐍 Currently strengthening my **Python & SQL** skills
+- 📈 Learning **Tableau & Power BI** for data visualization
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🚀 Building projects to turn ideas into practical solutions
+
+---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sai-ruchitha-tammareddy-273346384/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=D4AF37" />
-  </a>
-  <a href="mailto:ruchithat25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2ECC71" />
-  </a>
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 📊 Data & Analytics
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<p>
+
+`SQL` `Tableau` `Power BI` `Pandas` `NumPy`
+
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+
+`Machine Learning` `NLP` `Generative AI` `Data Analysis`
+
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
 
 ---
 
-### 📊 Ticker
+## 📊 GitHub Analytics
 
-```
-> B.Tech Computer Science (Data Science) @ GITAM University — Class of 2029
-> Design Lead, GitHub Community Club (GCC)
-> Focus: quantitative finance, financial markets, data-driven analysis
-> Learning: SQL · Python · Tableau / Power BI
-```
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=ruchitha25&show_icons=true&theme=tokyonight&hide_border=true" />
 
+<br>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchitha25&theme=tokyonight&hide_border=true" />
 
-### 🛠️ Stack
+<br>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,html,css,mysql,git" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchitha25&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-### 📈 Stats
+## 🚀 Featured Interests
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruchithat25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=2ECC71&text_color=C9D1D9&border_color=1B4332" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchithat25&hide_border=true&background=0D1117&ring=D4AF37&fire=2ECC71&currStreakLabel=D4AF37&sideLabels=C9D1D9&currStreakNum=C9D1D9" />
-</p>
+<table>
+<tr>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruchithat25&theme=onedark&no-frame=true&margin-w=10&row=1" />
-</p>
+<td width="50%">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B4332,100:0D1117&height=100&section=footer" />
+### 📊 Data Science
+
+Exploring data analysis, visualization,
+statistics and machine learning.
+
+</td>
+
+<td width="50%">
+
+### 💰 Finance & Analytics
+
+Interested in financial markets,
+quantitative analysis and data-driven decisions.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+
+Learning AI/ML and experimenting
+with practical AI applications.
+
+</td>
+
+<td width="50%">
+
+### 🌐 Development
+
+Building projects that combine
+software development with data.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruchitha25&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ruchitha25">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- Add your LinkedIn here -->
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<!-- Add your email here -->
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "Turning data into insights, and ideas into projects."
+
+⭐ Feel free to explore my repositories!
+
+</div>
