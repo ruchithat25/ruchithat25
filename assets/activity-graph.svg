@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#F2A7C6" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#B8C0FF" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#FFD6A5" stop-opacity="0.7" />
+    </linearGradient>
+    <linearGradient id="fade" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.0" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.8" />
+    </linearGradient>
+    <style>
+      .bg { fill: transparent; }
+      .area { fill: url(#g); stroke: none; opacity: 0.95 }
+      .line { fill: none; stroke: #7C7C7C; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round }
+      .label { font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #7C7C7C; font-size: 14px }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" width="1200" height="220" rx="8" />
+
+  <!-- Mock activity area (privacy-friendly placeholder) -->
+  <path class="area" d="M30,180 L90,150 L150,120 L210,110 L270,90 L330,100 L390,80 L450,95 L510,70 L570,85 L630,60 L690,75 L750,55 L810,65 L870,50 L930,70 L990,60 L1050,50 L1110,65 L1170,60 L1170,220 L30,220 Z" />
+  <path class="line" d="M30,180 L90,150 L150,120 L210,110 L270,90 L330,100 L390,80 L450,95 L510,70 L570,85 L630,60 L690,75 L750,55 L810,65 L870,50 L930,70 L990,60 L1050,50 L1110,65 L1170,60" />
+
+  <!-- Top title -->
+  <text x="40" y="30" class="label" style="font-weight:600; font-size:18px; fill:#F2A7C6">Activity (cached)</text>
+  <text x="40" y="52" class="label" style="font-size:12px">This is a privacy-friendly placeholder of your contribution activity.</text>
+
+  <!-- X-axis ticks (months approximate) -->
+  <g class="label" fill="#9B9B9B">
+    <text x="90" y="200">Jan</text>
+    <text x="270" y="200">Mar</text>
+    <text x="450" y="200">May</text>
+    <text x="630" y="200">Jul</text>
+    <text x="810" y="200">Sep</text>
+    <text x="990" y="200">Nov</text>
+    <text x="1170" y="200">Dec</text>
+  </g>
+
+</svg>

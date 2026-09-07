@@ -103,13 +103,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ruchithat25">View my GitHub profile and contributions</a>
+  <img src="assets/activity-graph.svg" alt="Activity graph (cached)" width="100%" />
 </p>
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sai-ruchitha-tammareddy-273346384/">
+  <a href="https://www.linkedin.com/in/sai-ruchithat-tammareddy-273346384/">
     <img src="https://img.shields.io/badge/Let's%20Connect-F2A7C6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
