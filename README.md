@@ -4,8 +4,6 @@
 
 ### Data Science • AI/ML • Finance • Technology
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=900&color=F2A7C6&center=true&vCenter=true&width=700&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Growing;D[...]
-
 <p>
   <img src="https://img.shields.io/badge/Data%20Science-F2A7C6?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%2FML-B8C0FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
