@@ -4,7 +4,7 @@
 
 ### Data Science • AI/ML • Finance • Technology
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=900&color=F2A7C6&center=true&vCenter=true&width=700&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Growing;Data[...] 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=900&color=F2A7C6&center=true&vCenter=true&width=700&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Growing;D[...]
 
 <p>
   <img src="https://img.shields.io/badge/Data%20Science-F2A7C6?style=for-the-badge&logo=python&logoColor=white" />
@@ -102,9 +102,6 @@
   <img src="https://streak-stats.demolab.com?user=ruchithat25&theme=transparent&hide_border=true&ring=F2A7C6&fire=FFD6A5&currStreakLabel=B8C0FF&sideLabels=F2A7C6&dates=7C7C7C" width="75%" />
 </p>
 
-<p align="center">
-  <img src="assets/activity-graph.svg" alt="Activity graph (cached)" width="100%" />
-</p>
 
 ## 🤝 Let's Connect
 
