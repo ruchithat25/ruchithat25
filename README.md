@@ -1,15 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:6366F1,100:FFFFFF&height=200&section=header&text=Sai%20Ruchitha&fontSize=42&fontColor=6366F1&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B4332,100:0D1117&height=200&section=header&text=Sai%20Ruchitha&fontSize=42&fontColor=D4AF37&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Turning+data+into+market+insight;Design+Lead+%40+GitHub+Community" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=D4AF37&center=true&vCenter=true&width=600&lines=Turning+data+into+market+insight;Design+Lead+%40+GitHub+Community+Club;Passionate+about+Finance+%26+Data" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sai-ruchitha-tammareddy-273346384/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=6366F1" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=D4AF37" />
   </a>
   <a href="mailto:ruchithat25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EC4899" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2ECC71" />
   </a>
 </p>
 
@@ -26,6 +26,8 @@
 
 ---
 
+
+
 ### 🛠️ Stack
 
 <p align="left">
@@ -37,12 +39,12 @@
 ### 📈 Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruchithat25&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6366F1&icon_color=EC4899&text_color=1F2937&border_color=E5E7EB" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchithat25&hide_border=true&background=FFFFFF&ring=6366F1&fire=EC4899&currStreakLabel=6366F1&sideLabels=6B7280&currStreakNum=1F2937" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruchithat25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=2ECC71&text_color=C9D1D9&border_color=1B4332" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchithat25&hide_border=true&background=0D1117&ring=D4AF37&fire=2ECC71&currStreakLabel=D4AF37&sideLabels=C9D1D9&currStreakNum=C9D1D9" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruchithat25&theme=flat&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ruchithat25&theme=onedark&no-frame=true&margin-w=10&row=1" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:6366F1,100:FFFFFF&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B4332,100:0D1117&height=100&section=footer" />
